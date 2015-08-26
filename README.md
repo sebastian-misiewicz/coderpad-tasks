@@ -2,7 +2,7 @@
 
 A collection of tasks, which can be copied and then pasted into a [coderpad.io](coderpad.io) window.
 
-For now each task has a draft implementation for each task.
+Each task has a draft implementation for Java.
 
 Algorithms
 ----------
