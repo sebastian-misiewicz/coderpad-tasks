@@ -2,7 +2,8 @@ import java.io.*;
 import java.util.*;
 
 /*
- * [design-patterns-1] Sequence
+ * [design-patterns-1]
+ * Implement an Observer Pattern.
  */
 
 class Solution {
