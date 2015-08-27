@@ -15,6 +15,7 @@ JUnit
 Design Patterns
 ----------
 1. Observer
+2. Builder
 
 
 
